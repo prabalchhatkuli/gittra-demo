@@ -9,3 +9,4 @@ for i, name in enumerate(friends):#在云端找到我
     print("Hello this is a test commit")
     print("this is a demo")
     print("we are in a meeting")
+#中文比英文好 
